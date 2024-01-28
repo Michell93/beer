@@ -1,0 +1,22 @@
+.pessoa__imagem{
+    background: red;
+    background-size: cover;
+    width: 300px;
+    border-radius: 100%;
+    height: 300px;
+    margin: 0 auto;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.pessoa__imagem--homer{
+    background-image: url('../../assets/pessoas/homer.jpg');
+}
+
+.pessoa__imagem--moe{
+    background-image: url('../../assets/pessoas/moe.png');
+}
+
+.pessoa__imagem--barney{
+    background-image: url('../../assets/pessoas/barney.jpg');
+}

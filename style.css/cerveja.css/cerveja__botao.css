@@ -1,0 +1,13 @@
+.cerveja__botao{
+    background: var(--cor-secundaria);
+    color: var(--cor-vermelho);
+    border: none;
+    border-radius: 5px;
+    padding: 1rem;
+    transition: all .1s ease-in-out;
+}
+
+.cerveja__botao:hover{
+    cursor: pointer;
+    background: var(--link-ativo);
+}
